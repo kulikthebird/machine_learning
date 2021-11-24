@@ -1,0 +1,13 @@
+This article explains the new features in Python 3.7, compared to 3.6. Python 3.7 was released on June 27, 2018. For full details, see the changelog.
+Summary – Release Highlights
+New syntax features:
+PEP 563, postponed evaluation of type annotations.
+Backwards incompatible syntax changes:
+async and await are now reserved keywords.
+New library modules:
+contextvars: PEP 567 – Context Variables
+dataclasses: PEP 557 – Data Classes
+importlib.resources
+New built-in features:
+PEP 553, the new breakpoint() function.
+Python data model improvements:
